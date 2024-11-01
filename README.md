@@ -71,7 +71,7 @@ endmodule
 ![ex05](https://github.com/user-attachments/assets/1b2dbe35-4e46-468c-bfcb-2331fabf023d)
 
 ## TIMING Waveform:
-![Screenshot 2024-10-05 133734](https://github.com/user-attachments/assets/716b0600-2030-447d-aa5d-02dc28a1315b)
+![Screenshot 2024-10-28 114759](https://github.com/user-attachments/assets/584f8890-d17c-4bad-a914-24e87ec9d419)
 
 ## RESULT:
 implementing Encoder 8 To 3 in Dataflow Modelling using verilog and validating their functionality using their functional tables executed succesfully.
